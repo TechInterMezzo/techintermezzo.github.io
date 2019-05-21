@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    background: #000000;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+#twitch-player {
+    height: 100%;
+    margin-right: 250px;
+}
+
+#sidebar {
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    box-sizing: border-box;
+    width: 250px;
+    padding-left: 10px;
+}
