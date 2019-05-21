@@ -3,181 +3,56 @@
 <head>
 	<meta charset="utf-8">
     <title>VoD-Sync</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"/>
-	<link rel="stylesheet" href="assets/main.css?v=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/solid.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/fontawesome.min.css"/>
+	<link rel="stylesheet" href="assets/main.css?v=2">
 </head>
 <body>
-    <div id="twitch-player"></div>
-    <div id="sidebar" v-cloak>
-        <form @submit="submit">
-            <input class="uk-input uk-margin-small-bottom" type="text" :value="timeString" @focus="pause" @input="parse">
-        </form>
-        <div v-for="streamer in streamers">
-            <button class="uk-button uk-button-primary uk-width-1-1 uk-margin-small-bottom"
-                :data-streamer="streamer.id" :disabled="!streamer.activeVideo" @click="play">{{ streamer.name }}</button>
+    <div class="columns is-gapless is-marginless full-height">
+        <div id="player" class="column is-10 full-height"></div>
+        <div id="controller" class="column is-2 full-height" v-cloak>
+            <div class="time subtitle has-text-grey-light has-text-centered" @click="edit">{{ time | formatTime}}</div>
+            <streamer v-for="streamer in streamers" :time="time" :streamer="streamer" @play="play($event)" inline-template>
+                <div class="streamer">
+                    <div class="progressbar has-background-primary" :style="{ width: progress + '%' }"></div>
+                    <div class="field has-addons columns is-gapless">
+                        <p class="control column is-10">
+                            <a class="button is-small is-link is-radiusless is-fullwidth" :disabled="!active" @click="$emit('play', streamer)">
+                                {{ streamer.name }}
+                            </a>
+                        </p>
+                        <p class="control column is-2">
+                            <a class="button is-small is-info is-radiusless is-fullwidth" :disabled="!active" :href="link" target="_blank">
+                                <span class="icon">
+                                    <i class="fas fa-external-link-alt"></i>
+                                </span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </streamer>
+
+            <div class="modal" :class="{ 'is-active': modal }">
+                <div class="modal-background" @click="cancel"></div>
+                <div class="modal-content">
+                    <div class="box">
+                        <div class="field">
+                            <input class="input" type="text" v-model="editTime">
+                        </div>
+                        <button class="button is-link" @click="save">Zeit ändern</button>
+                    </div>
+                </div>
+                <button class="modal-close is-large" aria-label="close" @click="cancel"></button>
+            </div>
         </div>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="assets/luxon.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js"></script>
     <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-    <script type="text/javascript">
-        var vm = new Vue({
-            el: '#sidebar',
-            data: {
-                time: Math.round(new Date(2019, 05 - 1, 20, 20, 00, 00).getTime() / 1000),
-                streamers: []
-            },
-            methods: {
-                play: function(event) {
-                    let streamerId = event.target.dataset.streamer;
-                    let streamer = this.streamers.find(x => x.id == streamerId);
-                    if (streamer && streamer.activeVideo) {
-                        Synchronizer.playVideo(streamer.activeVideo);
-                    }
-                },
-                pause: function() {
-                    player.pause();
-                },
-                parse: function(event) {
-                    this.timeString = event.target.value;
-                },
-                submit: function(event) {
-                    event.preventDefault();
-                }
-            },
-            computed: {
-                timeString: {
-                    get: function() {
-                        return moment(this.time * 1000).format('DD.MM.YYYY HH:mm:ss');
-                    },
-                    set: function(value) {
-                        value = moment(value, 'DD.MM.YYYY HH:mm:ss', true);
-                        if (value.isValid()) {
-                            this.time = Math.round(value.valueOf() / 1000);
-                            Synchronizer.updateStreamers();
-                        }
-                    }
-                }
-            }
-        });
-        var player = new Twitch.Player('twitch-player', {
-            width: '100%',
-            height: '100%'
-        });
-        player.addEventListener(Twitch.Player.READY, function(){
-            apiReady.then(() => {
-                Synchronizer.updateStreamers();
-                for (let streamer of vm.streamers) {
-                    if (streamer.activeVideo) {
-                        Synchronizer.playVideo(streamer.activeVideo);
-                    }
-                    break;
-                }
-            });
-        });
-        player.addEventListener(Twitch.Player.PLAYING, () => Synchronizer.startUpdater());
-        player.addEventListener(Twitch.Player.PAUSE, () => Synchronizer.stopUpdater());
-        player.addEventListener(Twitch.Player.ENDED, () => Synchronizer.stopUpdater());
-
-        var Synchronizer = {
-            activeVideo: null,
-            updateInterval: null,
-            playVideo: function(video) {
-                this.activeVideo = video;
-                player.setVideo('v' + video.id, video.start ? vm.time - video.start : 0);
-                player.seek(video.start ? vm.time - video.start : 0);
-            },
-            startUpdater: function() {
-                clearInterval(this.updateInterval);
-                this.updateActivity();
-                this.updateInterval = setInterval(() => this.updateActivity(), 1000);
-            },
-            stopUpdater: function() {
-                clearInterval(this.updateInterval);
-            },
-            updateActivity: function() {
-                let offset = player.getCurrentTime();
-                if (offset && player.getVideo() == 'v' + this.activeVideo.id) {
-                    vm.time = this.activeVideo.start + offset;
-                }
-                this.updateStreamers();
-            },
-            updateStreamers: function() {
-                for (let streamer of vm.streamers) {
-                    streamer.activeVideo = this.findActiveVideo(streamer.videos);
-                }
-            },
-            findActiveVideo: function(videos) {
-                for (let video of videos) {
-                    if (video.start <= vm.time && video.start + video.duration > vm.time) {
-                        return video;
-                    }
-                }
-                return null;
-            }
-        };
-
-        var names = ['dekarldent', 'chefkochx', 'sachsenletsplayeryt'];
-
-        var TwitchApi = {
-            client: axios.create({
-                baseURL: 'https://api.twitch.tv/helix/',
-                headers: { 'Client-ID': 'fabwdpeksbti4wrcrjatakxnvxrqe6' }
-            }),
-            getUsers: function(names) {
-                return this.client.get('users?login=' + names.join('&login=')).then(response => {
-                    return response.data.data;
-                });
-            },
-            getVideos: function(userId) {
-                return this.client.get('videos?type=archive&first=15&user_id=' + userId).then(response => {
-                    return response.data.data;
-                });
-            }
-        };
-
-        var Duration = {
-            parse: function(string) {
-                var match = string.match(/(([0-9]+)h)?(([0-9]+)m)?([0-9]+)s/i);
-                if (match) {
-                    var seconds = Number(match[5]);
-                    if (match[4]) {
-                        seconds += Number(match[4]) * 60;
-                    }
-                    if (match[2]) {
-                        seconds += Number(match[2]) * 60 * 60;
-                    }
-                    return seconds;
-                }
-                return 0;
-            }
-        };
-
-        var apiReady = TwitchApi.getUsers(names).then(users => {
-            return vm.streamers = users.map(user => ({
-                id: user.id,
-                name: user.display_name,
-                alias: '',
-                activeVideo: null,
-                videos: []
-            }));
-        }).then(streamers => {
-            var promises = []
-            for (let streamer of streamers) {
-                promises.push(TwitchApi.getVideos(streamer.id).then(videos => {
-                    streamer.videos = videos.map(video => ({
-                        id: video.id,
-                        start: Math.round(Date.parse(video.created_at) / 1000),
-                        duration: Duration.parse(video.duration)
-                    }));
-                }));
-            }
-            return Promise.all(promises);
-        });
-
-    </script>
-	<script src="assets/main.js?v=1"></script>
+	<script src="assets/main.js?v=2"></script>
 </body>
 </html>

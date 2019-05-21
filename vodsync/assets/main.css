@@ -1,23 +1,29 @@
 html, body {
     height: 100%;
     background: #000000;
+    overflow: hidden;
+}
+
+iframe {
+    height: 100%;
 }
 
 [v-cloak] {
     display: none;
 }
 
-#twitch-player {
-    height: 100%;
-    margin-right: 250px;
+.time {
+    cursor: pointer;
 }
 
-#sidebar {
-    position: fixed;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    box-sizing: border-box;
-    width: 250px;
-    padding-left: 10px;
+.full-height {
+    height: 100%;
+}
+
+.streamer {
+    margin-top: 0.5em;
+}
+
+.progressbar {
+    height: 3px;
 }
