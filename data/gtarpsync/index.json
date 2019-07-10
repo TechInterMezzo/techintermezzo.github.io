@@ -9,9 +9,8 @@
         "AlternateLife"
       ],
       "isLive": false,
-      "endedAt": "2019-06-26T15:49:51Z",
+      "endedAt": "2019-07-10T13:59:55Z",
       "activeTimeCycles": [
-        21349,
         21350,
         21353,
         21356,
@@ -28,24 +27,6 @@
       ]
     },
     {
-      "id": "128074148",
-      "name": "Cerablir",
-      "alias": "Aurelien de la Motte",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/40481f54-ebb7-4f51-aa15-4cabc358e405-profile_image-300x300.png",
-      "tags": [
-        "HomeState"
-      ],
-      "isLive": false,
-      "endedAt": "2019-06-26T23:39:44Z",
-      "activeTimeCycles": [
-        21350,
-        21353,
-        21362,
-        21365,
-        21368
-      ]
-    },
-    {
       "id": "120184785",
       "name": "CHEFKOCHx",
       "alias": "Jerry Jackson",
@@ -54,7 +35,7 @@
         "AlternateLife"
       ],
       "isLive": false,
-      "endedAt": "2019-06-26T21:13:11Z",
+      "endedAt": "2019-07-09T22:45:24Z",
       "activeTimeCycles": [
         21350,
         21353,
@@ -70,6 +51,24 @@
         21383,
         21386,
         21389
+      ]
+    },
+    {
+      "id": "128074148",
+      "name": "Cerablir",
+      "alias": "Aurelien de la Motte",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/40481f54-ebb7-4f51-aa15-4cabc358e405-profile_image-300x300.png",
+      "tags": [
+        "HomeState"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-02T18:13:00Z",
+      "activeTimeCycles": [
+        21350,
+        21353,
+        21362,
+        21365,
+        21368
       ]
     },
     {
@@ -92,11 +91,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-06-26T22:12:21Z",
+      "isLive": true,
+      "endedAt": "2019-07-10T16:39:59Z",
       "activeTimeCycles": [
-        21349,
-        21350,
         21352,
         21353,
         21359,
@@ -115,7 +112,8 @@
         21380,
         21386,
         21389,
-        21390
+        21390,
+        21392
       ]
     },
     {
@@ -126,10 +124,11 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-10T13:57:37Z",
+      "isLive": false,
+      "endedAt": "2019-07-10T16:08:35Z",
       "activeTimeCycles": [
-        21391
+        21391,
+        21392
       ]
     },
     {
@@ -141,7 +140,7 @@
         "AlternateLife"
       ],
       "isLive": false,
-      "endedAt": "2019-06-30T22:17:38Z",
+      "endedAt": "2019-07-09T21:32:53Z",
       "activeTimeCycles": [
         21362,
         21365,
@@ -160,8 +159,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-06-26T17:54:51Z",
+      "isLive": true,
+      "endedAt": "2019-07-10T15:57:28Z",
       "activeTimeCycles": [
         21350,
         21353,
@@ -176,7 +175,8 @@
         21377,
         21380,
         21383,
-        21389
+        21389,
+        21391
       ]
     },
     {
@@ -188,7 +188,7 @@
         "AlternateLife"
       ],
       "isLive": false,
-      "endedAt": "2019-06-27T22:55:59Z",
+      "endedAt": "2019-07-07T21:53:51Z",
       "activeTimeCycles": [
         21353,
         21356,
@@ -208,7 +208,7 @@
         "AlternateLife"
       ],
       "isLive": false,
-      "endedAt": "2019-06-26T22:13:59Z",
+      "endedAt": "2019-07-09T22:17:43Z",
       "activeTimeCycles": [
         21350,
         21353,
@@ -222,28 +222,6 @@
       ]
     },
     {
-      "id": "191482671",
-      "name": "snackbaron1337",
-      "alias": "Siggi",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a266e5c-119d-4493-9aa6-6269ed18bd41-profile_image-300x300.png",
-      "tags": [
-        "AlternateLife"
-      ],
-      "isLive": false,
-      "endedAt": "2019-06-26T23:12:05Z",
-      "activeTimeCycles": [
-        21350,
-        21356,
-        21359,
-        21364,
-        21365,
-        21373,
-        21374,
-        21388,
-        21389
-      ]
-    },
-    {
       "id": "99121518",
       "name": "TorroTouretteTV",
       "alias": "Lasse Leprason",
@@ -251,8 +229,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-06-27T16:50:32Z",
+      "isLive": true,
+      "endedAt": "2019-07-10T15:40:43Z",
       "activeTimeCycles": [
         21352,
         21353,
@@ -277,7 +255,8 @@
         21383,
         21386,
         21388,
-        21389
+        21389,
+        21391
       ]
     },
     {
@@ -289,7 +268,7 @@
         "HomeState"
       ],
       "isLive": false,
-      "endedAt": "2019-06-28T05:24:21Z",
+      "endedAt": "2019-07-09T02:29:52Z",
       "activeTimeCycles": [
         21353,
         21354,
@@ -324,10 +303,8 @@
         "HomeState"
       ],
       "isLive": false,
-      "endedAt": "2019-06-26T21:49:44Z",
+      "endedAt": "2019-07-08T19:20:19Z",
       "activeTimeCycles": [
-        21349,
-        21350,
         21353,
         21364,
         21365,
@@ -337,6 +314,27 @@
         21382,
         21385,
         21386
+      ]
+    },
+    {
+      "id": "191482671",
+      "name": "snackbaron1337",
+      "alias": "Siggi",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/2a266e5c-119d-4493-9aa6-6269ed18bd41-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-09T23:42:10Z",
+      "activeTimeCycles": [
+        21356,
+        21359,
+        21364,
+        21365,
+        21373,
+        21374,
+        21388,
+        21389
       ]
     }
   ]
