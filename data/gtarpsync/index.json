@@ -126,9 +126,11 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2000-01-01T00:00:00Z",
-      "activeTimeCycles": []
+      "isLive": true,
+      "endedAt": "2019-07-10T13:33:18Z",
+      "activeTimeCycles": [
+        21391
+      ]
     },
     {
       "id": "58301987",
