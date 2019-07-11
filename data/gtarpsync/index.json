@@ -94,7 +94,6 @@
       "isLive": false,
       "endedAt": "2019-07-10T16:39:59Z",
       "activeTimeCycles": [
-        21352,
         21353,
         21359,
         21361,
@@ -356,8 +355,8 @@
         "AlternateLife",
         "HomeState"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-08T19:20:19Z",
+      "isLive": true,
+      "endedAt": "2019-07-11T17:09:17Z",
       "activeTimeCycles": [
         21353,
         21364,
@@ -367,7 +366,8 @@
         21377,
         21382,
         21385,
-        21386
+        21386,
+        21395
       ]
     },
     {
