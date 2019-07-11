@@ -357,8 +357,8 @@
         "AlternateLife",
         "HomeState"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-11T20:45:47Z",
+      "isLive": false,
+      "endedAt": "2019-07-11T21:01:52Z",
       "activeTimeCycles": [
         21353,
         21364,
