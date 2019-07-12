@@ -8,10 +8,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-12T19:11:03Z",
+      "isLive": false,
+      "endedAt": "2019-07-12T21:42:54Z",
       "activeTimeCycles": [
-        21356,
         21359,
         21362,
         21365,
@@ -167,7 +166,6 @@
       "isLive": false,
       "endedAt": "2019-07-12T20:38:37Z",
       "activeTimeCycles": [
-        21356,
         21359,
         21361,
         21362,
@@ -239,8 +237,6 @@
       "isLive": false,
       "endedAt": "2019-07-12T19:15:24Z",
       "activeTimeCycles": [
-        21355,
-        21356,
         21358,
         21359,
         21361,
@@ -383,8 +379,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-12T16:50:20Z",
+      "isLive": false,
+      "endedAt": "2019-07-12T21:41:45Z",
       "activeTimeCycles": [
         21356,
         21359,
