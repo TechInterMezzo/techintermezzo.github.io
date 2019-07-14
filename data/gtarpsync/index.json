@@ -8,8 +8,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-13T22:54:37Z",
+      "isLive": true,
+      "endedAt": "2019-07-14T17:58:37Z",
       "activeTimeCycles": [
         21362,
         21365,
@@ -24,7 +24,49 @@
         21394,
         21397,
         21398,
-        21401
+        21401,
+        21404
+      ]
+    },
+    {
+      "id": "263574013",
+      "name": "BastiiGaming",
+      "alias": "Cooper",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/766a7bce-3b86-4d4d-beac-ae8272bfd1c6-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-14T15:37:29Z",
+      "activeTimeCycles": [
+        21362,
+        21364,
+        21365,
+        21366,
+        21367,
+        21369,
+        21370,
+        21373,
+        21374,
+        21375,
+        21376,
+        21377,
+        21379,
+        21382,
+        21383,
+        21385,
+        21386,
+        21388,
+        21389,
+        21391,
+        21393,
+        21394,
+        21395,
+        21396,
+        21397,
+        21398,
+        21400,
+        21403
       ]
     },
     {
@@ -64,7 +106,6 @@
       "isLive": false,
       "endedAt": "2019-07-02T18:13:00Z",
       "activeTimeCycles": [
-        21362,
         21365,
         21368
       ]
@@ -89,10 +130,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-13T23:50:14Z",
+      "isLive": true,
+      "endedAt": "2019-07-14T17:23:35Z",
       "activeTimeCycles": [
-        21361,
         21362,
         21364,
         21365,
@@ -110,7 +150,8 @@
         21390,
         21392,
         21398,
-        21401
+        21401,
+        21404
       ]
     },
     {
@@ -121,8 +162,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-13T21:32:19Z",
+      "isLive": true,
+      "endedAt": "2019-07-14T16:53:19Z",
       "activeTimeCycles": [
         21391,
         21392,
@@ -130,7 +171,42 @@
         21395,
         21397,
         21398,
-        21401
+        21401,
+        21404
+      ]
+    },
+    {
+      "id": "68809009",
+      "name": "DerWegrenner",
+      "alias": "AC John Carson",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e4e89d76-b0a7-4d3d-89a6-a300a422d851-profile_image-300x300.png",
+      "tags": [
+        "HomeState"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-14T00:55:37Z",
+      "activeTimeCycles": [
+        21362,
+        21365,
+        21368,
+        21369,
+        21371,
+        21373,
+        21376,
+        21377,
+        21378,
+        21379,
+        21380,
+        21383,
+        21386,
+        21391,
+        21392,
+        21394,
+        21395,
+        21398,
+        21400,
+        21401,
+        21402
       ]
     },
     {
@@ -141,8 +217,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-13T21:07:23Z",
+      "isLive": true,
+      "endedAt": "2019-07-14T18:29:03Z",
       "activeTimeCycles": [
         21362,
         21365,
@@ -153,7 +229,33 @@
         21389,
         21395,
         21398,
-        21401
+        21401,
+        21404
+      ]
+    },
+    {
+      "id": "144339372",
+      "name": "HughWinters",
+      "alias": "Der Pole",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/385c44f5-cf23-4e2f-af43-3218fae27cd9-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-14T16:47:09Z",
+      "activeTimeCycles": [
+        21362,
+        21368,
+        21371,
+        21377,
+        21380,
+        21383,
+        21386,
+        21389,
+        21392,
+        21395,
+        21398,
+        21404
       ]
     },
     {
@@ -185,6 +287,64 @@
       ]
     },
     {
+      "id": "233429987",
+      "name": "Mibbi",
+      "alias": "Nalani",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b0df06d-b85c-4b73-bedd-d8945e5996f9-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-14T17:01:00Z",
+      "activeTimeCycles": [
+        21365,
+        21368,
+        21374,
+        21377,
+        21380,
+        21383,
+        21386,
+        21389,
+        21395,
+        21401,
+        21402,
+        21404
+      ]
+    },
+    {
+      "id": "82048186",
+      "name": "Nanuki_TV",
+      "alias": "Cpt. James Black",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/9dfc0e51-99d4-4364-98ff-4ff18278f08c-profile_image-300x300.png",
+      "tags": [
+        "HomeState"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-14T15:00:54Z",
+      "activeTimeCycles": [
+        21364,
+        21365,
+        21370,
+        21371,
+        21374,
+        21376,
+        21377,
+        21378,
+        21379,
+        21380,
+        21382,
+        21383,
+        21389,
+        21395,
+        21397,
+        21398,
+        21400,
+        21401,
+        21402,
+        21403
+      ]
+    },
+    {
       "id": "100164086",
       "name": "Nayuma",
       "alias": "Lucy Jackson",
@@ -206,6 +366,31 @@
       ]
     },
     {
+      "id": "36378145",
+      "name": "SachsenLetsPlayerYT",
+      "alias": "Der Sachse?",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/sachsenletsplayeryt-profile_image-afadba650692c7e7-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-12T21:42:00Z",
+      "activeTimeCycles": [
+        21362,
+        21365,
+        21368,
+        21371,
+        21374,
+        21377,
+        21383,
+        21386,
+        21389,
+        21392,
+        21395,
+        21398
+      ]
+    },
+    {
       "id": "98363015",
       "name": "ScuD__",
       "alias": "Horst",
@@ -214,7 +399,7 @@
         "AlternateLife"
       ],
       "isLive": false,
-      "endedAt": "2019-07-14T00:22:05Z",
+      "endedAt": "2019-07-14T22:37:31Z",
       "activeTimeCycles": [
         21365,
         21368,
@@ -223,7 +408,8 @@
         21389,
         21395,
         21401,
-        21402
+        21402,
+        21404
       ]
     },
     {
@@ -278,6 +464,71 @@
       ]
     },
     {
+      "id": "48865821",
+      "name": "Staiy",
+      "alias": "Chief Harris",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/456a86df-a530-43a8-bf6e-f84ddc806521-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-14T16:23:20Z",
+      "activeTimeCycles": [
+        21362,
+        21364,
+        21365,
+        21367,
+        21368,
+        21370,
+        21371,
+        21377,
+        21379,
+        21380,
+        21382,
+        21383,
+        21385,
+        21386,
+        21388,
+        21389,
+        21391,
+        21392,
+        21394,
+        21395,
+        21398,
+        21400,
+        21403,
+        21404
+      ]
+    },
+    {
+      "id": "132793370",
+      "name": "TacolineTV",
+      "alias": "Kiki",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/59e507db-bce0-43bc-9119-27b8f9aa8720-profile_image-300x300.jpg",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-14T18:32:48Z",
+      "activeTimeCycles": [
+        21362,
+        21364,
+        21365,
+        21367,
+        21368,
+        21370,
+        21371,
+        21374,
+        21377,
+        21383,
+        21389,
+        21392,
+        21398,
+        21401,
+        21404
+      ]
+    },
+    {
       "id": "99121518",
       "name": "TorroTouretteTV",
       "alias": "Lasse Leprason",
@@ -286,7 +537,7 @@
         "AlternateLife"
       ],
       "isLive": true,
-      "endedAt": "2019-07-14T13:13:13Z",
+      "endedAt": "2019-07-14T18:12:36Z",
       "activeTimeCycles": [
         21363,
         21364,
@@ -315,7 +566,8 @@
         21399,
         21401,
         21402,
-        21403
+        21403,
+        21404
       ]
     },
     {
@@ -395,6 +647,48 @@
         21395,
         21398,
         21401
+      ]
+    },
+    {
+      "id": "107342590",
+      "name": "tamaaa",
+      "alias": "Lucas Bluford",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/442ff684-9d71-4371-b7ad-f4635e6594ef-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-14T15:15:46Z",
+      "activeTimeCycles": [
+        21362,
+        21364,
+        21365,
+        21368,
+        21370,
+        21371,
+        21373,
+        21374,
+        21376,
+        21377,
+        21380,
+        21381,
+        21382,
+        21383,
+        21385,
+        21386,
+        21388,
+        21389,
+        21392,
+        21393,
+        21394,
+        21395,
+        21396,
+        21397,
+        21398,
+        21399,
+        21401,
+        21402,
+        21403
       ]
     }
   ]
