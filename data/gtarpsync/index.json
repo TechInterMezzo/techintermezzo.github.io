@@ -106,7 +106,6 @@
       "isLive": false,
       "endedAt": "2019-07-02T18:13:00Z",
       "activeTimeCycles": [
-        21362,
         21365,
         21368
       ]
@@ -134,7 +133,6 @@
       "isLive": true,
       "endedAt": "2019-07-14T17:23:35Z",
       "activeTimeCycles": [
-        21361,
         21362,
         21364,
         21365,
@@ -296,8 +294,21 @@
         "AlternateLife"
       ],
       "isLive": true,
-      "endedAt": "2000-01-01T00:00:00Z",
-      "activeTimeCycles": []
+      "endedAt": "2019-07-14T17:01:00Z",
+      "activeTimeCycles": [
+        21365,
+        21368,
+        21374,
+        21377,
+        21380,
+        21383,
+        21386,
+        21389,
+        21395,
+        21401,
+        21402,
+        21404
+      ]
     },
     {
       "id": "82048186",
