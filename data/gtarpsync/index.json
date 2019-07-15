@@ -135,8 +135,6 @@
       "isLive": false,
       "endedAt": "2019-07-15T19:48:04Z",
       "activeTimeCycles": [
-        21364,
-        21365,
         21367,
         21368,
         21370,
@@ -418,7 +416,6 @@
       "isLive": false,
       "endedAt": "2019-07-12T21:42:00Z",
       "activeTimeCycles": [
-        21365,
         21368,
         21371,
         21374,
