@@ -240,8 +240,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-15T19:38:22Z",
+      "isLive": true,
+      "endedAt": "2019-07-16T17:52:33Z",
       "activeTimeCycles": [
         21368,
         21371,
@@ -255,7 +255,8 @@
         21398,
         21404,
         21406,
-        21407
+        21407,
+        21410
       ]
     },
     {
@@ -610,8 +611,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-15T20:03:23Z",
+      "isLive": true,
+      "endedAt": "2019-07-16T17:53:24Z",
       "activeTimeCycles": [
         21368,
         21370,
@@ -624,7 +625,8 @@
         21398,
         21401,
         21404,
-        21407
+        21407,
+        21410
       ]
     },
     {
