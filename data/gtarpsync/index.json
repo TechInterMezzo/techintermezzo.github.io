@@ -159,8 +159,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-16T17:02:40Z",
+      "isLive": false,
+      "endedAt": "2019-07-16T20:57:30Z",
       "activeTimeCycles": [
         21391,
         21392,
@@ -577,8 +577,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-16T16:31:29Z",
+      "isLive": false,
+      "endedAt": "2019-07-16T20:57:43Z",
       "activeTimeCycles": [
         21367,
         21368,
@@ -680,8 +680,8 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-16T17:39:28Z",
+      "isLive": false,
+      "endedAt": "2019-07-16T20:58:24Z",
       "activeTimeCycles": [
         21368,
         21369,
