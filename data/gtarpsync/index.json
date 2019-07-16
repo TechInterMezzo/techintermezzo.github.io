@@ -284,6 +284,73 @@
       ]
     },
     {
+      "id": "139371321",
+      "name": "JuniorAniTV",
+      "alias": "Sunny Blair",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/junioranitv-profile_image-47ff9d3e5e5bfbb6-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-15T23:32:07Z",
+      "activeTimeCycles": [
+        21367,
+        21368,
+        21370,
+        21371,
+        21373,
+        21374,
+        21376,
+        21377,
+        21378,
+        21379,
+        21380,
+        21382,
+        21383,
+        21384,
+        21385,
+        21386,
+        21387,
+        21388,
+        21389,
+        21391,
+        21392,
+        21394,
+        21395,
+        21396,
+        21404,
+        21406,
+        21407
+      ]
+    },
+    {
+      "id": "90628272",
+      "name": "Keiijo",
+      "alias": "Bosch",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/9157c102-7d18-46a3-836b-f7310916ccf2-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "endedAt": "2019-07-15T22:33:40Z",
+      "activeTimeCycles": [
+        21377,
+        21386,
+        21388,
+        21389,
+        21391,
+        21392,
+        21394,
+        21397,
+        21398,
+        21399,
+        21403,
+        21404,
+        21406,
+        21407
+      ]
+    },
+    {
       "id": "233429987",
       "name": "Mibbi",
       "alias": "Nalani",
