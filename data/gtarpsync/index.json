@@ -672,8 +672,8 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-16T20:58:24Z",
+      "isLive": true,
+      "endedAt": "2019-07-17T16:24:34Z",
       "activeTimeCycles": [
         21371,
         21372,
@@ -691,7 +691,8 @@
         21401,
         21406,
         21407,
-        21410
+        21410,
+        21413
       ]
     },
     {
