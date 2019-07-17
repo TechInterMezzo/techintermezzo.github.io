@@ -394,8 +394,6 @@
       "isLive": false,
       "endedAt": "2019-07-17T16:02:17Z",
       "activeTimeCycles": [
-        21370,
-        21371,
         21374,
         21376,
         21377,
@@ -485,7 +483,6 @@
       "isLive": false,
       "endedAt": "2019-07-12T21:42:00Z",
       "activeTimeCycles": [
-        21371,
         21374,
         21377,
         21383,
@@ -529,7 +526,6 @@
       "isLive": false,
       "endedAt": "2019-07-17T17:58:18Z",
       "activeTimeCycles": [
-        21371,
         21373,
         21374,
         21375,
@@ -673,8 +669,8 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-17T16:24:34Z",
+      "isLive": false,
+      "endedAt": "2019-07-17T21:49:46Z",
       "activeTimeCycles": [
         21371,
         21372,
