@@ -81,7 +81,6 @@
       "isLive": true,
       "endedAt": "2019-07-18T18:34:21Z",
       "activeTimeCycles": [
-        21374,
         21377,
         21379,
         21383,
@@ -520,8 +519,8 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-18T19:52:12Z",
+      "isLive": false,
+      "endedAt": "2019-07-18T19:54:43Z",
       "activeTimeCycles": [
         21376,
         21377,
