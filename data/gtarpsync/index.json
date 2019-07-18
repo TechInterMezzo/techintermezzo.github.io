@@ -77,8 +77,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-16T22:03:30Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T18:34:21Z",
       "activeTimeCycles": [
         21374,
         21377,
@@ -91,7 +91,8 @@
         21401,
         21404,
         21407,
-        21410
+        21410,
+        21416
       ]
     },
     {
@@ -230,6 +231,48 @@
       ]
     },
     {
+      "id": "47294913",
+      "name": "HerrHarley",
+      "alias": "Karl-Heinz Unger",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/27c037be-528f-4b1b-ab18-e67686f7b7bc-profile_image-300x300.jpg",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-18T17:49:38Z",
+      "activeTimeCycles": [
+        21379,
+        21380,
+        21381,
+        21382,
+        21383,
+        21384,
+        21385,
+        21386,
+        21387,
+        21388,
+        21389,
+        21390,
+        21391,
+        21392,
+        21395,
+        21396,
+        21397,
+        21398,
+        21405,
+        21406,
+        21407,
+        21408,
+        21410,
+        21411,
+        21412,
+        21413,
+        21414,
+        21415,
+        21416
+      ]
+    },
+    {
       "id": "144339372",
       "name": "HughWinters",
       "alias": "Der Pole",
@@ -278,6 +321,33 @@
         21401,
         21407,
         21410
+      ]
+    },
+    {
+      "id": "68607947",
+      "name": "JaydenPlys",
+      "alias": "Casey",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/0029b112-b7d8-49f3-aff4-f762f9f4ef8e-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "endedAt": "2019-07-18T15:30:19Z",
+      "activeTimeCycles": [
+        21376,
+        21377,
+        21378,
+        21380,
+        21381,
+        21383,
+        21386,
+        21404,
+        21407,
+        21410,
+        21412,
+        21413,
+        21414,
+        21415
       ]
     },
     {
@@ -754,8 +824,6 @@
       "isLive": false,
       "endedAt": "2019-07-17T20:40:29Z",
       "activeTimeCycles": [
-        21373,
-        21374,
         21376,
         21377,
         21380,
