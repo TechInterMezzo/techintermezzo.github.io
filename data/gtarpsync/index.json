@@ -40,8 +40,6 @@
       "isLive": false,
       "endedAt": "2019-07-17T22:21:16Z",
       "activeTimeCycles": [
-        21373,
-        21374,
         21375,
         21376,
         21377,
@@ -159,8 +157,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-17T15:43:02Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T14:31:23Z",
       "activeTimeCycles": [
         21391,
         21392,
@@ -173,7 +171,8 @@
         21406,
         21407,
         21410,
-        21412
+        21412,
+        21415
       ]
     },
     {
@@ -187,7 +186,6 @@
       "isLive": false,
       "endedAt": "2019-07-17T22:29:34Z",
       "activeTimeCycles": [
-        21373,
         21376,
         21377,
         21378,
@@ -362,8 +360,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-16T22:21:50Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T16:30:58Z",
       "activeTimeCycles": [
         21374,
         21377,
@@ -378,7 +376,8 @@
         21405,
         21406,
         21407,
-        21410
+        21410,
+        21416
       ]
     },
     {
@@ -389,8 +388,8 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-17T16:02:17Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T16:01:28Z",
       "activeTimeCycles": [
         21374,
         21376,
@@ -410,7 +409,8 @@
         21403,
         21404,
         21407,
-        21413
+        21413,
+        21416
       ]
     },
     {
@@ -442,8 +442,8 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-17T21:40:21Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T16:46:35Z",
       "activeTimeCycles": [
         21374,
         21375,
@@ -466,7 +466,8 @@
         21404,
         21407,
         21410,
-        21413
+        21413,
+        21416
       ]
     },
     {
@@ -520,8 +521,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-18T09:44:02Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T15:49:57Z",
       "activeTimeCycles": [
         21373,
         21374,
@@ -571,8 +572,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-17T22:26:54Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T15:23:04Z",
       "activeTimeCycles": [
         21377,
         21379,
@@ -595,7 +596,8 @@
         21407,
         21410,
         21412,
-        21413
+        21413,
+        21415
       ]
     },
     {
@@ -667,8 +669,8 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-17T21:49:46Z",
+      "isLive": true,
+      "endedAt": "2019-07-18T15:45:20Z",
       "activeTimeCycles": [
         21374,
         21375,
@@ -685,7 +687,8 @@
         21406,
         21407,
         21410,
-        21413
+        21413,
+        21415
       ]
     },
     {
