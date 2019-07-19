@@ -395,7 +395,6 @@
       "isLive": false,
       "endedAt": "2019-07-19T00:37:27Z",
       "activeTimeCycles": [
-        21376,
         21377,
         21378,
         21380,
@@ -526,8 +525,8 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-19T15:00:19Z",
+      "isLive": false,
+      "endedAt": "2019-07-19T23:20:09Z",
       "activeTimeCycles": [
         21376,
         21377,
@@ -548,7 +547,8 @@
         21407,
         21413,
         21416,
-        21418
+        21418,
+        21419
       ]
     },
     {
@@ -636,8 +636,8 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
-      "endedAt": "2019-07-19T18:21:21Z",
+      "isLive": false,
+      "endedAt": "2019-07-19T23:19:19Z",
       "activeTimeCycles": [
         21386,
         21389,
