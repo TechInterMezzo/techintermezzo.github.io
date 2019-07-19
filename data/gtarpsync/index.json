@@ -105,10 +105,11 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-15T20:08:02Z",
+      "isLive": true,
+      "endedAt": "2019-07-19T21:36:17Z",
       "activeTimeCycles": [
-        21407
+        21407,
+        21419
       ]
     },
     {
