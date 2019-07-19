@@ -867,8 +867,8 @@
         "AlternateLife",
         "PD"
       ],
-      "isLive": false,
-      "endedAt": "2019-07-19T15:46:14Z",
+      "isLive": true,
+      "endedAt": "2019-07-19T21:13:08Z",
       "activeTimeCycles": [
         21376,
         21377,
@@ -899,7 +899,8 @@
         21412,
         21413,
         21416,
-        21418
+        21418,
+        21419
       ]
     },
     {
