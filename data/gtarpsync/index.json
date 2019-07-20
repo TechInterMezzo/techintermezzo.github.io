@@ -12,7 +12,6 @@
       "gameId": null,
       "endedAt": "2019-07-19T21:50:44Z",
       "activeTimeCycles": [
-        21380,
         21383,
         21386,
         21389,
@@ -389,7 +388,6 @@
       "gameId": null,
       "endedAt": "2019-07-16T19:52:12Z",
       "activeTimeCycles": [
-        21380,
         21383,
         21389,
         21391,
@@ -862,9 +860,9 @@
         "AlternateLife",
         "HomeState"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "509658",
-      "endedAt": "2019-07-20T16:44:40Z",
+      "endedAt": "2019-07-20T21:44:40Z",
       "activeTimeCycles": [
         21382,
         21385,
