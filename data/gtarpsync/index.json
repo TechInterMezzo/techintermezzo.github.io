@@ -9,6 +9,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T21:50:44Z",
       "activeTimeCycles": [
         21380,
@@ -39,6 +40,7 @@
         "PD"
       ],
       "isLive": true,
+      "gameId": "32982",
       "endedAt": "2019-07-20T08:48:24Z",
       "activeTimeCycles": [
         21379,
@@ -80,6 +82,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T23:09:59Z",
       "activeTimeCycles": [
         21379,
@@ -105,6 +108,7 @@
         "HomeState"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T23:26:57Z",
       "activeTimeCycles": [
         21407,
@@ -120,6 +124,7 @@
         "HomeState"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2000-01-01T00:00:00Z",
       "activeTimeCycles": []
     },
@@ -132,6 +137,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-17T21:13:24Z",
       "activeTimeCycles": [
         21380,
@@ -157,6 +163,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T19:28:32Z",
       "activeTimeCycles": [
         21391,
@@ -187,6 +194,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T22:56:29Z",
       "activeTimeCycles": [
         21379,
@@ -216,6 +224,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T00:09:25Z",
       "activeTimeCycles": [
         21410,
@@ -233,6 +242,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T21:45:28Z",
       "activeTimeCycles": [
         21386,
@@ -255,6 +265,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-20T00:06:00Z",
       "activeTimeCycles": [
         21379,
@@ -295,6 +306,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T18:47:47Z",
       "activeTimeCycles": [
         21379,
@@ -340,6 +352,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-20T00:27:09Z",
       "activeTimeCycles": [
         21380,
@@ -367,6 +380,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-16T19:52:12Z",
       "activeTimeCycles": [
         21380,
@@ -391,6 +405,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T00:37:27Z",
       "activeTimeCycles": [
         21380,
@@ -418,6 +433,7 @@
         "PD"
       ],
       "isLive": true,
+      "gameId": "32982",
       "endedAt": "2019-07-20T11:43:31Z",
       "activeTimeCycles": [
         21379,
@@ -463,6 +479,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T20:40:49Z",
       "activeTimeCycles": [
         21386,
@@ -495,6 +512,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-18T22:07:04Z",
       "activeTimeCycles": [
         21380,
@@ -522,6 +540,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T23:20:09Z",
       "activeTimeCycles": [
         21379,
@@ -553,6 +572,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T23:16:27Z",
       "activeTimeCycles": [
         21383,
@@ -575,6 +595,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-20T00:48:34Z",
       "activeTimeCycles": [
         21379,
@@ -608,6 +629,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-18T19:56:05Z",
       "activeTimeCycles": [
         21383,
@@ -628,6 +650,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T23:19:19Z",
       "activeTimeCycles": [
         21386,
@@ -651,6 +674,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T19:36:17Z",
       "activeTimeCycles": [
         21379,
@@ -699,6 +723,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-18T21:19:12Z",
       "activeTimeCycles": [
         21379,
@@ -735,6 +760,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T21:47:33Z",
       "activeTimeCycles": [
         21383,
@@ -758,6 +784,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T21:13:53Z",
       "activeTimeCycles": [
         21380,
@@ -793,6 +820,7 @@
         "HomeState"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-18T21:48:14Z",
       "activeTimeCycles": [
         21380,
@@ -823,6 +851,7 @@
         "HomeState"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-17T13:37:00Z",
       "activeTimeCycles": [
         21382,
@@ -844,6 +873,7 @@
         "PD"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-20T00:29:01Z",
       "activeTimeCycles": [
         21380,
@@ -886,6 +916,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T12:25:38Z",
       "activeTimeCycles": [
         21388,
@@ -911,6 +942,7 @@
         "AlternateLife"
       ],
       "isLive": false,
+      "gameId": null,
       "endedAt": "2019-07-19T23:40:18Z",
       "activeTimeCycles": [
         21380,
