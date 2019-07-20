@@ -191,9 +191,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": false,
-      "gameId": null,
-      "endedAt": "2019-07-19T22:56:29Z",
+      "isLive": true,
+      "gameId": "32982",
+      "endedAt": "2019-07-20T17:02:24Z",
       "activeTimeCycles": [
         21379,
         21380,
@@ -210,7 +210,8 @@
         21407,
         21410,
         21413,
-        21419
+        21419,
+        21422
       ]
     },
     {
@@ -718,14 +719,14 @@
     {
       "id": "48865821",
       "name": "Staiy",
-      "alias": "Chief Harris",
+      "alias": "Roger Harris",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/456a86df-a530-43a8-bf6e-f84ddc806521-profile_image-300x300.png",
       "tags": [
         "AlternateLife",
         "PD"
       ],
       "isLive": true,
-      "gameId": "509658",
+      "gameId": "32982",
       "endedAt": "2019-07-20T15:25:35Z",
       "activeTimeCycles": [
         21379,
