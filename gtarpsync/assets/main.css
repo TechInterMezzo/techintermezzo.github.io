@@ -186,6 +186,27 @@ strong {
   .button:active {
     border-color: #4a4a4a;
     color: #363636; }
+  .button.is-light {
+    background-color: whitesmoke;
+    border-color: transparent;
+    color: #065471; }
+    .button.is-light:hover {
+      background-color: #eeeeee;
+      border-color: transparent;
+      color: #065471; }
+    .button.is-light:focus {
+      border-color: transparent;
+      color: #065471; }
+      .button.is-light:focus:not(:active) {
+        box-shadow: 0 0 0 0.125em rgba(245, 245, 245, 0.25); }
+    .button.is-light:active {
+      background-color: #e8e8e8;
+      border-color: transparent;
+      color: #065471; }
+    .button.is-light[disabled] {
+      background-color: whitesmoke;
+      border-color: transparent;
+      box-shadow: none; }
   .button.is-dark {
     background-color: #065471;
     border-color: transparent;
@@ -346,6 +367,9 @@ strong {
   padding-left: 0.75em;
   padding-right: 0.75em;
   white-space: nowrap; }
+  .tag:not(body).is-light {
+    background-color: whitesmoke;
+    color: #065471; }
   .tag:not(body).is-dark {
     background-color: #065471;
     color: whitesmoke; }
@@ -425,6 +449,10 @@ a.tag:hover {
   width: 100%; }
   .input[readonly] {
     box-shadow: none; }
+  .is-light.input {
+    border-color: whitesmoke; }
+    .is-light.input:focus, .is-light.input:active {
+      box-shadow: 0 0 0 0.125em rgba(245, 245, 245, 0.25); }
   .is-dark.input {
     border-color: #065471; }
     .is-dark.input:focus, .is-dark.input:active {
@@ -482,6 +510,14 @@ a.tag:hover {
         padding: 0.5em 1em; }
   .select:not(.is-multiple):not(.is-loading):hover::after {
     border-color: #363636; }
+  .select.is-light:not(:hover)::after {
+    border-color: whitesmoke; }
+  .select.is-light select {
+    border-color: whitesmoke; }
+    .select.is-light select:hover {
+      border-color: #e8e8e8; }
+    .select.is-light select:focus, .select.is-light select:active {
+      box-shadow: 0 0 0 0.125em rgba(245, 245, 245, 0.25); }
   .select.is-dark:not(:hover)::after {
     border-color: #065471; }
   .select.is-dark select {
@@ -540,6 +576,14 @@ a.tag:hover {
   display: flex;
   flex-direction: column;
   justify-content: space-between; }
+  .hero.is-light {
+    background-color: whitesmoke;
+    color: #065471; }
+    .hero.is-light a:not(.button):not(.dropdown-item):not(.tag):not(.pagination-link.is-current),
+    .hero.is-light strong {
+      color: inherit; }
+    .hero.is-light .title {
+      color: #065471; }
   .hero.is-dark {
     background-color: #065471;
     color: whitesmoke; }
@@ -737,6 +781,14 @@ input[type=range].slider {
   input[type=range].slider.is-small[orient="vertical"]::-webkit-slider-thumb {
     margin-top: auto;
     margin-left: -0.1875rem; }
+  input[type=range].slider.is-light::-moz-range-track {
+    background: whitesmoke; }
+  input[type=range].slider.is-light::-webkit-slider-runnable-track {
+    background: whitesmoke; }
+  input[type=range].slider.is-light::-ms-track {
+    background: whitesmoke !important; }
+  input[type=range].slider.is-light::-ms-fill-lower {
+    background: whitesmoke; }
   input[type=range].slider.is-dark::-moz-range-track {
     background: #065471; }
   input[type=range].slider.is-dark::-webkit-slider-runnable-track {
