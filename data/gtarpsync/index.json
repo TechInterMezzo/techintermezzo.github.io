@@ -40,7 +40,6 @@
       "gameId": "511224",
       "endedAt": "2019-07-25T10:18:29Z",
       "activeTimeCycles": [
-        21397,
         21398,
         21400,
         21403,
@@ -544,7 +543,7 @@
       ],
       "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-07-24T20:13:41Z",
+      "endedAt": "2019-07-26T15:01:10Z",
       "activeTimeCycles": [
         21397,
         21398,
@@ -563,7 +562,8 @@
         21427,
         21428,
         21431,
-        21434
+        21434,
+        21439
       ]
     },
     {
@@ -691,7 +691,7 @@
       "id": "137438957",
       "name": "SeFrOn__",
       "alias": "Jedediah McMuller",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/84fb6a34-1882-468a-a171-1f60c7cdad13-profile_image-300x300.png",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/988a5c27-7a1a-49df-aaad-13269ecc2bbc-profile_image-300x300.png",
       "tags": [
         "AlternateLife"
       ],
