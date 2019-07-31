@@ -783,7 +783,7 @@
     {
       "id": "99121518",
       "name": "TorroTouretteTV",
-      "alias": "Lasse Leprason",
+      "alias": "Rainer Night Parley",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5977abe0-2993-476e-bf0c-eee96b7891da-profile_image-300x300.png",
       "tags": [
         "AlternateLife"
@@ -898,6 +898,45 @@
         21448,
         21449,
         21450,
+        21451,
+        21452
+      ]
+    },
+    {
+      "id": "52444091",
+      "name": "mufi30",
+      "alias": "Tom Spencer",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/mufi30-profile_image-2dec70174fc9cd1c-300x300.jpeg",
+      "tags": [
+        "AlternateLife",
+        "PD"
+      ],
+      "isLive": false,
+      "gameId": null,
+      "endedAt": "2019-07-30T22:29:22Z",
+      "activeTimeCycles": [
+        21421,
+        21422,
+        21423,
+        21424,
+        21425,
+        21426,
+        21427,
+        21428,
+        21433,
+        21434,
+        21436,
+        21437,
+        21439,
+        21440,
+        21442,
+        21443,
+        21444,
+        21445,
+        21446,
+        21447,
+        21448,
+        21449,
         21451,
         21452
       ]
