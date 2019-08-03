@@ -169,9 +169,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-08-03T14:00:22Z",
+      "endedAt": "2019-08-03T16:59:48Z",
       "activeTimeCycles": [
         21422,
         21425,
@@ -190,7 +190,8 @@
         21458,
         21461,
         21462,
-        21463
+        21463,
+        21464
       ]
     },
     {
@@ -507,9 +508,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-08-02T23:13:48Z",
+      "endedAt": "2019-08-03T17:00:36Z",
       "activeTimeCycles": [
         21424,
         21425,
@@ -526,7 +527,8 @@
         21454,
         21455,
         21460,
-        21461
+        21461,
+        21464
       ]
     },
     {
