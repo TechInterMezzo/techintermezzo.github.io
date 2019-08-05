@@ -447,9 +447,9 @@
         "AlternateLife",
         "PD"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-08-04T23:29:11Z",
+      "endedAt": "2019-08-05T19:57:55Z",
       "activeTimeCycles": [
         21431,
         21433,
@@ -460,7 +460,8 @@
         21452,
         21455,
         21464,
-        21467
+        21467,
+        21470
       ]
     },
     {
@@ -885,6 +886,29 @@
       ]
     },
     {
+      "id": "71679241",
+      "name": "line___",
+      "alias": "Noah Slates",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd8a7718-0e6c-4768-9b83-47dd762af51c-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife",
+        "PD"
+      ],
+      "isLive": false,
+      "gameId": null,
+      "endedAt": "2019-08-04T22:10:31Z",
+      "activeTimeCycles": [
+        21451,
+        21452,
+        21455,
+        21457,
+        21458,
+        21461,
+        21464,
+        21467
+      ]
+    },
+    {
       "id": "52444091",
       "name": "mufi30",
       "alias": "Tom Spencer",
@@ -924,6 +948,40 @@
         21464,
         21465,
         21466,
+        21469,
+        21470
+      ]
+    },
+    {
+      "id": "46526503",
+      "name": "redlolgucci",
+      "alias": "Malone \"Red\" Kane",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a00f40bf-eef1-43e6-87b2-19f760393818-profile_image-300x300.png",
+      "tags": [
+        "HomeState",
+        "PD"
+      ],
+      "isLive": true,
+      "gameId": "32982",
+      "endedAt": "2019-08-05T18:00:22Z",
+      "activeTimeCycles": [
+        21431,
+        21434,
+        21440,
+        21442,
+        21443,
+        21446,
+        21449,
+        21452,
+        21455,
+        21457,
+        21458,
+        21460,
+        21461,
+        21462,
+        21464,
+        21466,
+        21467,
         21469,
         21470
       ]
