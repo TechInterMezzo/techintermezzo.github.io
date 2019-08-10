@@ -921,9 +921,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-08-10T16:59:54Z",
+      "endedAt": "2019-08-10T18:19:24Z",
       "activeTimeCycles": [
         21443,
         21446,
