@@ -3,7 +3,7 @@
     {
       "id": "76792680",
       "name": "AsterPewPew",
-      "alias": "Ricky Star",
+      "alias": "Johnny Laser",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/7656c779-012b-4c15-b5d1-bf67dae32d9c-profile_image-300x300.png",
       "tags": [
         "AlternateLife"
@@ -269,8 +269,6 @@
       "gameId": "32982",
       "endedAt": "2019-08-02T22:26:44Z",
       "activeTimeCycles": [
-        21450,
-        21451,
         21452,
         21453,
         21454,
@@ -784,6 +782,80 @@
       ]
     },
     {
+      "id": "94434746",
+      "name": "Xeno",
+      "alias": "Connor Bailey",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/b61f9e91871864d4-profile_image-300x300.jpeg",
+      "tags": [
+        "AlternateLife",
+        "PD"
+      ],
+      "isLive": false,
+      "gameId": null,
+      "endedAt": "2000-01-01T00:00:00Z",
+      "activeTimeCycles": []
+    },
+    {
+      "id": "85059772",
+      "name": "backt0theroots",
+      "alias": "Cody Eagle",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d803466b-7dee-46ba-bf33-1be2eccaa116-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "gameId": null,
+      "endedAt": "2019-08-13T07:22:48Z",
+      "activeTimeCycles": [
+        21451,
+        21452,
+        21454,
+        21455,
+        21456,
+        21457,
+        21458,
+        21459,
+        21461,
+        21462,
+        21463,
+        21464,
+        21465,
+        21466,
+        21467,
+        21469,
+        21470,
+        21472,
+        21473,
+        21475,
+        21476,
+        21478,
+        21481,
+        21482,
+        21485,
+        21486,
+        21488,
+        21490,
+        21491,
+        21492
+      ]
+    },
+    {
+      "id": "442286993",
+      "name": "endeffekt",
+      "alias": "Percy Carino",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e961e5fd-dcda-4343-ae1c-f468ab1991c5-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife",
+        "PD"
+      ],
+      "isLive": false,
+      "gameId": null,
+      "endedAt": "2019-08-12T20:37:52Z",
+      "activeTimeCycles": [
+        21491
+      ]
+    },
+    {
       "id": "29157943",
       "name": "hc_diZee",
       "alias": "Hartmut \"Hardy\" Lentes",
@@ -900,8 +972,7 @@
       "alias": "Malone \"Red\" Kane",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/a00f40bf-eef1-43e6-87b2-19f760393818-profile_image-300x300.png",
       "tags": [
-        "HomeState",
-        "PD"
+        "AlternateLife"
       ],
       "isLive": false,
       "gameId": "32982",
