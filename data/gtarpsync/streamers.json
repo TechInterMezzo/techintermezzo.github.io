@@ -1,5 +1,6 @@
 [
-    { "name": "AsterPewPew", "alias": "Ricky Star", "tags": ["AlternateLife"] },
+    { "name": "AsterPewPew", "alias": "Johnny Laser", "tags": ["AlternateLife"] },
+    { "name": "backt0theroots", "alias": "Cody Eagle", "tags": ["AlternateLife"] },
     { "name": "BastiiGaming", "alias": "Jamal Cooper", "tags": ["AlternateLife", "PD"] },
     { "name": "Cerablir", "alias": "Aurelien de la Motte", "tags": ["HomeState"] },
     { "name": "CHEFKOCHx", "alias": "Jerry Jackson", "tags": ["AlternateLife"] },
@@ -8,6 +9,7 @@
     { "name": "Dekarldent", "alias": "Fedor \"Der Schakal\" Bobrov", "tags": ["AlternateLife"] },
     { "name": "DerWegrenner", "alias": "John Carson", "tags": ["HomeState", "PD"] },
     { "name": "Fabii159", "alias": "Liam van Huet", "tags": ["AlternateLife"] },
+    { "name": "endeffekt", "alias": "Percy Carino", "tags": ["AlternateLife", "PD"] },
     { "name": "FurkiTV", "alias": "Steffano Alfonso", "tags": ["AlternateLife"] },
     { "name": "GensoTV", "alias": "Eduard \"Eddie\" Kemper", "tags": ["AlternateLife"] },
     { "name": "hc_diZee", "alias": "Hartmut \"Hardy\" Lentes", "tags": ["AlternateLife", "PD"] },
@@ -24,7 +26,7 @@
     { "name": "Nayuma", "alias": "Lucy Jackson", "tags": ["AlternateLife"] },
     { "name": "Nexus92", "alias": "Charles R. Bishop", "tags": ["AlternateLife"] },
     { "name": "PowerlockeYT", "alias": "Jeffrey Mason", "tags": ["HomeState", "PD"] },
-    { "name": "redlolgucci", "alias": "Malone \"Red\" Kane", "tags": ["HomeState", "PD"] },
+    { "name": "redlolgucci", "alias": "Malone \"Red\" Kane", "tags": ["AlternateLife"] },
     { "name": "SachsenLetsPlayerYT", "alias": "Ronny Schubert", "tags": ["AlternateLife"] },
     { "name": "ScuD__", "alias": "Horst Hagen", "tags": ["AlternateLife"] },
     { "name": "SeFrOn__", "alias": "Jedediah McMuller", "tags": ["AlternateLife"] },
@@ -34,5 +36,6 @@
     { "name": "tamaaa", "alias": "Lucas Bluford", "tags": ["AlternateLife"] },
     { "name": "TorroTouretteTV", "alias": "Rainer Night Parley", "tags": ["AlternateLife"] },
     { "name": "Valle", "alias": "Florida Frank", "tags": ["HomeState"] },
-    { "name": "VanHighnrich", "alias": "Stulle, Ethan", "tags": ["AlternateLife", "HomeState"] }
+    { "name": "VanHighnrich", "alias": "Stulle, Ethan", "tags": ["AlternateLife", "HomeState"] },
+    { "name": "Xeno", "alias": "Connor Bailey", "tags": ["AlternateLife", "PD"] }
 ]
