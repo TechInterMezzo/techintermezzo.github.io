@@ -457,7 +457,7 @@
       ],
       "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-08-12T21:04:17Z",
+      "endedAt": "2019-08-14T16:01:15Z",
       "activeTimeCycles": [
         21454,
         21455,
@@ -477,7 +477,8 @@
         21485,
         21487,
         21488,
-        21491
+        21491,
+        21497
       ]
     },
     {
@@ -841,7 +842,7 @@
       "id": "442286993",
       "name": "endeffekt",
       "alias": "Percy Carino",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/e961e5fd-dcda-4343-ae1c-f468ab1991c5-profile_image-300x300.png",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/d19a6e34-b858-4a81-b372-fd7bc4791d05-profile_image-300x300.png",
       "tags": [
         "AlternateLife",
         "PD"
