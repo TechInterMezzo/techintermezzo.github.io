@@ -315,7 +315,7 @@
     {
       "id": "89896510",
       "name": "Jay_Corner",
-      "alias": "Boban \"Bobby\" Romano",
+      "alias": "Christos Passalakis",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/jay_corner-profile_image-c2381f1facbacbbb-300x300.png",
       "tags": [
         "AlternateLife"
@@ -1016,9 +1016,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-08-17T16:20:35Z",
+      "endedAt": "2019-08-17T21:55:30Z",
       "activeTimeCycles": [
         21464,
         21466,
