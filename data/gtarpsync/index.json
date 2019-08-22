@@ -831,39 +831,6 @@
       ]
     },
     {
-      "id": "442286993",
-      "name": "endeffekt",
-      "alias": "Percy Carino",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ea699e3-7f4b-4969-acb8-8cbae45268a3-profile_image-300x300.png",
-      "tags": [
-        "AlternateLife",
-        "PD"
-      ],
-      "isLive": false,
-      "gameId": "32982",
-      "endedAt": "2019-08-21T21:08:25Z",
-      "activeTimeCycles": [
-        21491,
-        21493,
-        21494,
-        21497,
-        21500,
-        21501,
-        21502,
-        21503,
-        21504,
-        21506,
-        21507,
-        21509,
-        21511,
-        21512,
-        21513,
-        21514,
-        21515,
-        21518
-      ]
-    },
-    {
       "id": "29157943",
       "name": "hc_diZee",
       "alias": "Hartmut \"Hardy\" Lentes",
@@ -940,6 +907,40 @@
         21515,
         21516,
         21520
+      ]
+    },
+    {
+      "id": "442286993",
+      "name": "maexa",
+      "alias": "Percy Carino",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ea699e3-7f4b-4969-acb8-8cbae45268a3-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife",
+        "PD"
+      ],
+      "isLive": true,
+      "gameId": "32982",
+      "endedAt": "2019-08-22T16:29:02Z",
+      "activeTimeCycles": [
+        21491,
+        21493,
+        21494,
+        21497,
+        21500,
+        21501,
+        21502,
+        21503,
+        21504,
+        21506,
+        21507,
+        21509,
+        21511,
+        21512,
+        21513,
+        21514,
+        21515,
+        21518,
+        21521
       ]
     },
     {
