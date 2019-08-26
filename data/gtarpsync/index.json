@@ -238,10 +238,8 @@
       ],
       "isLive": false,
       "gameId": "110758",
-      "endedAt": "2019-08-12T15:00:24Z",
-      "activeTimeCycles": [
-        21490
-      ]
+      "endedAt": "2000-01-01T00:00:00Z",
+      "activeTimeCycles": []
     },
     {
       "id": "47294913",
