@@ -30,9 +30,9 @@
         "AlternateLife",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-08-26T16:00:49Z",
+      "endedAt": "2019-08-26T19:55:35Z",
       "activeTimeCycles": [
         21496,
         21502,
@@ -257,7 +257,7 @@
       ],
       "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-08-26T18:45:05Z",
+      "endedAt": "2019-08-26T19:57:49Z",
       "activeTimeCycles": [
         21494,
         21496,
@@ -466,7 +466,7 @@
       ],
       "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-08-26T15:59:35Z",
+      "endedAt": "2019-08-26T19:27:13Z",
       "activeTimeCycles": [
         21491,
         21497,
@@ -483,7 +483,8 @@
         21528,
         21529,
         21530,
-        21532
+        21532,
+        21533
       ]
     },
     {
@@ -676,7 +677,7 @@
       "id": "132793370",
       "name": "TacolineTV",
       "alias": "Kristin \"Kiki\" Slates",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/59e507db-bce0-43bc-9119-27b8f9aa8720-profile_image-300x300.jpg",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/652bb75d-30af-465b-a6de-3b39dd2eb9a3-profile_image-300x300.png",
       "tags": [
         "AlternateLife"
       ],
