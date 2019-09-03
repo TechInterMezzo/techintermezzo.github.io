@@ -333,7 +333,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-02T00:26:39Z",
       "activeTimeCycles": [
-        21515,
         21518,
         21521,
         21524,
@@ -554,7 +553,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-03T18:28:03Z",
       "activeTimeCycles": [
-        21515,
         21518,
         21521,
         21524,
@@ -620,7 +618,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-03T20:36:28Z",
       "activeTimeCycles": [
-        21515,
         21517,
         21518,
         21521,
@@ -722,9 +719,9 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-03T16:38:15Z",
+      "endedAt": "2019-09-03T21:41:19Z",
       "activeTimeCycles": [
         21533,
         21536,
@@ -990,7 +987,6 @@
       "gameId": "32982",
       "endedAt": "2019-08-31T00:02:55Z",
       "activeTimeCycles": [
-        21515,
         21518,
         21521,
         21523,
