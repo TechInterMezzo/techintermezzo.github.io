@@ -8,9 +8,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-04T19:17:02Z",
+      "endedAt": "2019-09-04T21:59:30Z",
       "activeTimeCycles": [
         21536,
         21539,
@@ -746,15 +746,16 @@
         "AlternateLife",
         "HomeState"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "18122",
-      "endedAt": "2019-09-04T14:10:30Z",
+      "endedAt": "2019-09-04T21:58:10Z",
       "activeTimeCycles": [
         21533,
         21534,
         21535,
         21536,
-        21559
+        21559,
+        21560
       ]
     },
     {
@@ -835,9 +836,9 @@
         "AlternateLife",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-04T17:00:03Z",
+      "endedAt": "2019-09-04T21:59:19Z",
       "activeTimeCycles": [
         21520,
         21521,
