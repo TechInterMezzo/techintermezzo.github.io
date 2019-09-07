@@ -38,8 +38,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-06T22:20:40Z",
       "activeTimeCycles": [
-        21524,
-        21525,
         21526,
         21527,
         21529,
@@ -380,9 +378,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-06T18:01:29Z",
+      "endedAt": "2019-09-07T01:44:03Z",
       "activeTimeCycles": [
         21530,
         21531,
@@ -396,7 +394,8 @@
         21547,
         21548,
         21551,
-        21566
+        21566,
+        21567
       ]
     },
     {
@@ -408,9 +407,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-06T14:59:36Z",
+      "endedAt": "2019-09-07T01:43:23Z",
       "activeTimeCycles": [
         21526,
         21527,
@@ -433,7 +432,9 @@
         21556,
         21557,
         21559,
-        21565
+        21565,
+        21566,
+        21567
       ]
     },
     {
@@ -818,9 +819,9 @@
         "AlternateLife",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-06T16:30:28Z",
+      "endedAt": "2019-09-07T01:44:12Z",
       "activeTimeCycles": [
         21530,
         21531,
@@ -839,7 +840,8 @@
         21560,
         21563,
         21564,
-        21566
+        21566,
+        21567
       ]
     },
     {
