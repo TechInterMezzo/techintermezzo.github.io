@@ -369,7 +369,7 @@
       ],
       "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-09-12T17:29:36Z",
+      "endedAt": "2019-09-12T19:28:42Z",
       "activeTimeCycles": [
         21577,
         21578,
@@ -824,7 +824,6 @@
       "gameId": "509672",
       "endedAt": "2019-09-11T18:19:39Z",
       "activeTimeCycles": [
-        21542,
         21544,
         21545,
         21547,
