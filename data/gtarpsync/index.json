@@ -363,9 +363,9 @@
         "AlternateLife",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-13T23:00:33Z",
+      "endedAt": "2019-09-14T01:27:11Z",
       "activeTimeCycles": [
         21577,
         21578,
@@ -374,7 +374,8 @@
         21583,
         21584,
         21586,
-        21587
+        21587,
+        21588
       ]
     },
     {
