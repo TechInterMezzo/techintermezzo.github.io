@@ -99,12 +99,13 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-09-12T22:16:26Z",
+      "endedAt": "2019-09-15T19:16:17Z",
       "activeTimeCycles": [
         21569,
-        21584
+        21584,
+        21593
       ]
     },
     {
@@ -291,7 +292,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-15T17:45:38Z",
       "activeTimeCycles": [
-        21551,
         21557,
         21560,
         21563,
