@@ -42,7 +42,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-16T20:40:31Z",
       "activeTimeCycles": [
-        21554,
         21555,
         21556,
         21557,
@@ -79,7 +78,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-16T18:01:41Z",
       "activeTimeCycles": [
-        21554,
         21557,
         21560,
         21563,
@@ -474,7 +472,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-16T21:17:14Z",
       "activeTimeCycles": [
-        21554,
         21556,
         21557,
         21559,
@@ -526,7 +523,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-16T20:47:49Z",
       "activeTimeCycles": [
-        21554,
         21557,
         21559,
         21560,
@@ -590,9 +586,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-16T18:47:59Z",
+      "endedAt": "2019-09-16T22:44:18Z",
       "activeTimeCycles": [
         21557,
         21560,
@@ -867,7 +863,6 @@
       "gameId": "32982",
       "endedAt": "2019-09-16T16:30:55Z",
       "activeTimeCycles": [
-        21554,
         21556,
         21557,
         21560,
@@ -986,7 +981,6 @@
       "gameId": "489545",
       "endedAt": "2019-09-16T01:45:01Z",
       "activeTimeCycles": [
-        21554,
         21557,
         21559,
         21572,
