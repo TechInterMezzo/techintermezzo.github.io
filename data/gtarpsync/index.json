@@ -579,20 +579,19 @@
     },
     {
       "id": "84865654",
-      "name": "PowerlockeYT",
+      "name": "Powerlocke_HS",
       "alias": "Jeffrey Mason",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/f940854e-1ee8-4f1b-9657-3bc624b48021-profile_image-300x300.png",
       "tags": [
         "HomeState",
         "PD"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-09-21T16:00:08Z",
+      "endedAt": "2019-09-21T15:59:35Z",
       "activeTimeCycles": [
         21587,
-        21610,
-        21611
+        21610
       ]
     },
     {
