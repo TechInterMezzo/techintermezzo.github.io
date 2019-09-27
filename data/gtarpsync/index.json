@@ -513,9 +513,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-09-27T16:32:29Z",
+      "endedAt": "2019-09-27T22:47:22Z",
       "activeTimeCycles": [
         21586,
         21587,
@@ -543,9 +543,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "512057",
-      "endedAt": "2019-09-27T18:08:59Z",
+      "endedAt": "2019-09-27T22:45:12Z",
       "activeTimeCycles": [
         21590,
         21617,
