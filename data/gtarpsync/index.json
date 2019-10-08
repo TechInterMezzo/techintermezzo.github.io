@@ -69,7 +69,6 @@
       "gameId": "32982",
       "endedAt": "2019-10-08T21:53:56Z",
       "activeTimeCycles": [
-        21620,
         21623,
         21626,
         21632,
@@ -507,7 +506,6 @@
       "gameId": "509658",
       "endedAt": "2019-10-08T21:17:52Z",
       "activeTimeCycles": [
-        21620,
         21623,
         21626,
         21629,
@@ -523,7 +521,7 @@
       "id": "142403843",
       "name": "Nexus92",
       "alias": "Charles R. Bishop",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/5e8df17e-d40f-4f57-82c6-90f127817e6a-profile_image-300x300.png",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/307367e9-a804-4919-bb94-efd213486159-profile_image-300x300.png",
       "tags": [
         "AlternateLife"
       ],
