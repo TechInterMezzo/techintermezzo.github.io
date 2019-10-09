@@ -87,16 +87,17 @@
       "tags": [
         "HomeState"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-10-05T21:53:50Z",
+      "endedAt": "2019-10-09T17:00:49Z",
       "activeTimeCycles": [
         21626,
         21629,
         21644,
         21647,
         21650,
-        21653
+        21653,
+        21665
       ]
     },
     {
@@ -194,9 +195,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "500188",
-      "endedAt": "2019-10-09T11:44:52Z",
+      "endedAt": "2019-10-09T16:57:39Z",
       "activeTimeCycles": [
         21623,
         21626,
@@ -219,7 +220,8 @@
         21657,
         21658,
         21659,
-        21664
+        21664,
+        21665
       ]
     },
     {
@@ -481,14 +483,15 @@
         "HomeState",
         "PD"
       ],
-      "isLive": false,
-      "gameId": "509672",
-      "endedAt": "2019-10-05T18:51:00Z",
+      "isLive": true,
+      "gameId": "32982",
+      "endedAt": "2019-10-09T17:00:26Z",
       "activeTimeCycles": [
         21623,
         21629,
         21635,
-        21653
+        21653,
+        21665
       ]
     },
     {
