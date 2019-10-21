@@ -679,7 +679,6 @@
       "gameId": "509658",
       "endedAt": "2019-10-21T18:00:20Z",
       "activeTimeCycles": [
-        21659,
         21668,
         21677,
         21698,
@@ -771,7 +770,7 @@
         "HomeState"
       ],
       "isLive": true,
-      "gameId": "509658",
+      "gameId": "417846",
       "endedAt": "2019-10-21T18:13:13Z",
       "activeTimeCycles": [
         21683,
