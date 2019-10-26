@@ -930,10 +930,8 @@
       ],
       "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-10-12T22:59:30Z",
-      "activeTimeCycles": [
-        21674
-      ]
+      "endedAt": "2000-01-01T00:00:00Z",
+      "activeTimeCycles": []
     },
     {
       "id": "46526503",
