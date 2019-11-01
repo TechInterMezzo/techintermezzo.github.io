@@ -368,9 +368,6 @@
       "gameId": "32982",
       "endedAt": "2019-10-31T23:51:00Z",
       "activeTimeCycles": [
-        21689,
-        21690,
-        21691,
         21692,
         21695,
         21696,
@@ -515,11 +512,12 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-11-01T13:54:16Z",
+      "endedAt": "2019-11-01T17:09:15Z",
       "activeTimeCycles": [
-        21733
+        21733,
+        21734
       ]
     },
     {
