@@ -56,10 +56,9 @@
         "AlternateLife"
       ],
       "isLive": true,
-      "gameId": "32982",
+      "gameId": "512710",
       "endedAt": "2019-11-03T20:00:54Z",
       "activeTimeCycles": [
-        21698,
         21704,
         21710,
         21713,
@@ -242,7 +241,6 @@
       "gameId": "32982",
       "endedAt": "2019-11-03T17:56:25Z",
       "activeTimeCycles": [
-        21698,
         21700,
         21701,
         21703,
@@ -691,7 +689,6 @@
       "gameId": "32982",
       "endedAt": "2019-11-03T19:04:09Z",
       "activeTimeCycles": [
-        21698,
         21701,
         21704,
         21705,
