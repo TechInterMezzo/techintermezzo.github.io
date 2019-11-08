@@ -569,7 +569,6 @@
       "gameId": "493959",
       "endedAt": "2019-11-08T17:18:38Z",
       "activeTimeCycles": [
-        21713,
         21716,
         21719,
         21721,
@@ -607,7 +606,6 @@
       "gameId": "509658",
       "endedAt": "2019-11-08T16:44:59Z",
       "activeTimeCycles": [
-        21713,
         21715,
         21718,
         21722,
@@ -873,17 +871,19 @@
     },
     {
       "id": "442286993",
-      "name": "maexa",
+      "name": "liveMAXWELL",
       "alias": "Percy Carino",
       "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/4ea699e3-7f4b-4969-acb8-8cbae45268a3-profile_image-300x300.png",
       "tags": [
         "AlternateLife",
         "PD"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2000-01-01T00:00:00Z",
-      "activeTimeCycles": []
+      "endedAt": "2019-11-08T18:13:52Z",
+      "activeTimeCycles": [
+        21755
+      ]
     },
     {
       "id": "52444091",
