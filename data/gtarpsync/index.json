@@ -911,11 +911,12 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-11-04T04:05:12Z",
+      "endedAt": "2019-11-10T20:00:39Z",
       "activeTimeCycles": [
-        21741
+        21741,
+        21761
       ]
     },
     {
