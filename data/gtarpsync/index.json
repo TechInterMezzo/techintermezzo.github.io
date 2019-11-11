@@ -55,31 +55,6 @@
       ]
     },
     {
-      "id": "120184785",
-      "name": "CHEFKOCHx",
-      "alias": "Jerry Jackson",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/61b9433d-099c-4d20-a416-888114eb692b-profile_image-300x300.png",
-      "tags": [
-        "AlternateLife"
-      ],
-      "isLive": true,
-      "gameId": "32982",
-      "endedAt": "2019-11-11T19:31:54Z",
-      "activeTimeCycles": [
-        21728,
-        21729,
-        21731,
-        21732,
-        21737,
-        21740,
-        21743,
-        21746,
-        21752,
-        21755,
-        21764
-      ]
-    },
-    {
       "id": "128074148",
       "name": "Cerablir",
       "alias": "Aurelien de la Motte",
@@ -435,9 +410,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-11-11T17:00:10Z",
+      "endedAt": "2019-11-11T21:44:03Z",
       "activeTimeCycles": [
         21728,
         21731,
@@ -798,6 +773,31 @@
         21760,
         21761,
         21762,
+        21764
+      ]
+    },
+    {
+      "id": "120184785",
+      "name": "fettkopflphd1",
+      "alias": "Jerry Jackson",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/61b9433d-099c-4d20-a416-888114eb692b-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": true,
+      "gameId": "32982",
+      "endedAt": "2019-11-11T21:46:11Z",
+      "activeTimeCycles": [
+        21728,
+        21729,
+        21731,
+        21732,
+        21737,
+        21740,
+        21743,
+        21746,
+        21752,
+        21755,
         21764
       ]
     },
