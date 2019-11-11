@@ -414,13 +414,14 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "509658",
-      "endedAt": "2019-11-10T19:48:08Z",
+      "endedAt": "2019-11-11T00:22:43Z",
       "activeTimeCycles": [
         21725,
         21755,
-        21761
+        21761,
+        21762
       ]
     },
     {
@@ -662,8 +663,6 @@
       "gameId": "491931",
       "endedAt": "2019-11-10T03:19:37Z",
       "activeTimeCycles": [
-        21719,
-        21720,
         21721,
         21722,
         21724,
@@ -760,9 +759,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-11-10T17:57:45Z",
+      "endedAt": "2019-11-11T00:22:50Z",
       "activeTimeCycles": [
         21719,
         21720,
@@ -794,7 +793,8 @@
         21758,
         21759,
         21760,
-        21761
+        21761,
+        21762
       ]
     },
     {
