@@ -407,9 +407,9 @@
         "HomeState",
         "PD"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-11-11T21:44:03Z",
+      "endedAt": "2019-11-12T17:00:20Z",
       "activeTimeCycles": [
         21728,
         21731,
@@ -421,7 +421,8 @@
         21749,
         21752,
         21757,
-        21764
+        21764,
+        21767
       ]
     },
     {
@@ -458,9 +459,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": false,
+      "isLive": true,
       "gameId": "32982",
-      "endedAt": "2019-11-11T22:25:11Z",
+      "endedAt": "2019-11-12T17:00:29Z",
       "activeTimeCycles": [
         21725,
         21731,
@@ -474,7 +475,8 @@
         21757,
         21758,
         21761,
-        21764
+        21764,
+        21767
       ]
     },
     {
