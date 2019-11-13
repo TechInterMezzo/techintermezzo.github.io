@@ -234,9 +234,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-11-13T18:25:26Z",
+      "endedAt": "2019-11-13T21:00:24Z",
       "activeTimeCycles": [
         21731,
         21734,
