@@ -55,6 +55,29 @@
       ]
     },
     {
+      "id": "120184785",
+      "name": "CHEFKOCHx",
+      "alias": "Jerry Jackson",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d48039d-b23e-4821-ac05-bd556c617668-profile_image-300x300.png",
+      "tags": [
+        "AlternateLife"
+      ],
+      "isLive": false,
+      "gameId": "32982",
+      "endedAt": "2019-11-11T22:00:57Z",
+      "activeTimeCycles": [
+        21731,
+        21732,
+        21737,
+        21740,
+        21743,
+        21746,
+        21752,
+        21755,
+        21764
+      ]
+    },
+    {
       "id": "128074148",
       "name": "Cerablir",
       "alias": "Aurelien de la Motte",
@@ -776,29 +799,6 @@
         21767,
         21770,
         21773
-      ]
-    },
-    {
-      "id": "120184785",
-      "name": "chefkochx",
-      "alias": "Jerry Jackson",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/9d48039d-b23e-4821-ac05-bd556c617668-profile_image-300x300.png",
-      "tags": [
-        "AlternateLife"
-      ],
-      "isLive": false,
-      "gameId": "32982",
-      "endedAt": "2019-11-11T22:00:57Z",
-      "activeTimeCycles": [
-        21731,
-        21732,
-        21737,
-        21740,
-        21743,
-        21746,
-        21752,
-        21755,
-        21764
       ]
     },
     {
