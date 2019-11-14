@@ -700,9 +700,9 @@
         "AlternateLife",
         "HomeState"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "509658",
-      "endedAt": "2019-11-13T18:50:04Z",
+      "endedAt": "2019-11-14T01:24:06Z",
       "activeTimeCycles": [
         21743,
         21746,
@@ -710,7 +710,8 @@
         21752,
         21764,
         21767,
-        21770
+        21770,
+        21771
       ]
     },
     {
