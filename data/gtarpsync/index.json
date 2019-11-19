@@ -86,7 +86,7 @@
       "id": "128074148",
       "name": "Cerablir",
       "alias": "Aurelien de la Motte",
-      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/40481f54-ebb7-4f51-aa15-4cabc358e405-profile_image-300x300.png",
+      "profileImage": "https://static-cdn.jtvnw.net/jtv_user_pictures/6a29fab1-1639-46b5-a7ee-62fa60a3677b-profile_image-300x300.png",
       "tags": [
         "HomeState"
       ],
@@ -919,9 +919,9 @@
       "tags": [
         "AlternateLife"
       ],
-      "isLive": true,
+      "isLive": false,
       "gameId": "32982",
-      "endedAt": "2019-11-19T11:07:41Z",
+      "endedAt": "2019-11-19T14:55:23Z",
       "activeTimeCycles": [
         21761,
         21763,
